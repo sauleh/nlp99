@@ -1,34 +1,19 @@
 instructor:
   name: Sauleh Eetemadi
-  profile_pic: /_images/eetemadi.jpg
+  profile_pic: /_images/avatar.png
 
 teaching_assistants:
-  - name: Maryam S. Hashemi
-    profile_pic: /_images/hashemi.jpg
+  - name: Soroush Gholami
+    profile_pic: /_images/avatar.png
 
-  - name: Soheil Rastegar
-    profile_pic: /_images/rastegar.jpg
+  - name: AmirHosein KazemNejad
+    profile_pic: /_images/avatar.png
 
-  - name: Amir Khakpour
-    profile_pic: /_images/khakpour.jpg
+  - name: AmirMohammad Kazemeini
+    profile_pic: /_images/avatar.png
 
-  - name: Mahsa S. Razavi
-    profile_pic: /_images/razavi.jpg
+  - name: Samin Fatehi
+    profile_pic: /_images/avatar.png
 
-  - name: <a href="https://banafsheh-karimian.jimdofree.com/">Banafeshe Karimian</a>
-    profile_pic: /_images/karimian.jpg
-
-  - name: Ali Aleyasin
-    profile_pic: /_images/aleyasin.jpg
-
-  - name: <a href="https://github.com/fatemetkl">Fateme Tavakoli</a>
-    profile_pic: /_images/tavakoli.jpg
-
-  - name: Ali Safarpour Dehkordi
-    profile_pic: /_images/safarpour.jpg
-
-  - name: Mahya Khazaei
-    profile_pic: /_images/khazayi.jpg
-
-  - name: Amir H. Amini
+  - name: Kiarash AghaKasiri
     profile_pic: /_images/avatar.png
