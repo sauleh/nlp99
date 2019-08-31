@@ -49,7 +49,8 @@ Prof. Dan Jurafsky is a leading reasearcher and teacher in Natural Language Proc
 
 
 ## NLP Labs
-* QANTA.org
+
 
 ## NLP Projects
+* QANTA.org
 
