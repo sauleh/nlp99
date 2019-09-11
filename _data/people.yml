@@ -1,6 +1,6 @@
 instructor:
   name: Sauleh Eetemadi
-  profile_pic: /_images/avatar.png
+  profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
   - name: Soroush Gholami
@@ -17,3 +17,8 @@ teaching_assistants:
 
   - name: Kiarash AghaKasiri
     profile_pic: /_images/avatar.png
+
+  - name: Hooman Mehrafarin
+    profile_pic: /_images/hooman.jpg
+
+    
