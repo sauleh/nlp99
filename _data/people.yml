@@ -3,22 +3,26 @@ instructor:
   profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
-  - name: Soroush Gholami
+  - name: Amin Pourdabiri
     profile_pic: /_images/avatar.png
 
-  - name: AmirHosein KazemNejad
+  - name: Hadise Mahmoodi
     profile_pic: /_images/avatar.png
 
-  - name: AmirMohammad Kazemeini
+  - name: Malihe Hajihosseini
+    profile_pic: /_images/avatar.png
+
+  - name: Majid Zarharan
+    profile_pic: /_images/avatar.png
+
+  - name: Maryam Sadat Hashemi
+    profile_pic: /_images/avatar.png
+
+  - name: Mahdi Lotfi
     profile_pic: /_images/avatar.png
 
   - name: Samin Fatehi
     profile_pic: /_images/avatar.png
 
-  - name: Kiarash AghaKasiri
+  - name: Zahra Sayedi
     profile_pic: /_images/avatar.png
-
-  - name: Hooman Mehrafarin
-    profile_pic: /_images/hooman.jpg
-
-    
