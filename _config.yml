@@ -1,14 +1,14 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Natural Language Processing
-course_description: In this course we aim to familiarize students with the kind of problems NLP deals with and various techniques to tackle them. For the most part we follow the <a href="https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html">lecture slides</a> from the Stanford Coursera course by Dan Jurafsky and Christopher Manning. 
-course_semester: "Spring 2019 "
+course_description: This course is offered in the flip format. We follow the CS224n - Natural Language Processing with Deep Learning course from <a href="http://web.stanford.edu/class/cs224n/">stanford</a>. To reflect on more traditional approaches to NLP we will reference the <a href="https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html">2012 stanford NLP course</a> as well.  
+course_semester: "Spring 2021 "
 description: |
     Instructor: Sauleh Eetemadi
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/nlp97" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/nlp97" # the base hostname & protocol for your site
+baseurl: "/nlp99" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io/nlp99" # the base hostname & protocol for your site
 githubdir: 
 
 # Author/user information
