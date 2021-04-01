@@ -13,8 +13,7 @@ permalink: /course-materials/
 
 * Koehn, Philipp. Statistical machine translation. Cambridge University Press, 2009. [Page](http://www.statmt.org/book/)
 ## Online Courses
-
-This course closely follows the Stanford Coursera course by Dan Jurafsky and Christopher Manning on Natural Language Processing. You can find the slides [here](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) and the videos [here](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true). Other online courses:
+This course closely follows Prof. Manning's [NLP with deep learning](http://web.stanford.edu/class/cs224n/) course. There is an earlier version of the course with a more traditional approach by Dan Jurafsky and Christopher Manning on Natural Language Processing which is also highly recommended. You can find the slides of the earlier version of the course [here](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) and the videos [here](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true). Other online courses:
 * From Languge to Information by Dan Jurafsky: [videos](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA), course [page](http://web.stanford.edu/class/cs124/).
 * Food Talks: The Language of Food by Dan Jurafsky ([Course Page](http://web.stanford.edu/class/think53/))
 
@@ -32,8 +31,6 @@ Prof. Dan Jurafsky is a leading reasearcher and teacher in Natural Language Proc
 * [NLP](http://people.ischool.berkeley.edu/~dbamman/nlp18.html) and Applied NLP at [Berekley](http://people.ischool.berkeley.edu/~dbamman/info256.html).
 * NLP at [UIUC](https://courses.engr.illinois.edu/cs546/sp2018/).
 * NLP at [Maryland](http://www.cs.umd.edu/class/fall2018/cmsc470/), also [here](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_470/).
-* 
-
 
 ## Tutorials
 * Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks ([link](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)).
