@@ -24,16 +24,14 @@ title: page.title
       [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
       {% endif %}
     </p>
-
-    <div style="color: gray;">
-      <h3>Late Policy</h3>
-      {% include late_policy.html %}
-    </div>
   </div>
 
   <br />
   <article class="post-content">
-    {{ content }}
-  </article>
-
+{% assign paragraphs = page.content | newline_to_br | strip_newlines | split: '<br />' %}
+{% for p in paragraphs %}
+<div dir="auto" style="text-align: justify; font-family: Tahoma"> 
+{{ p }}
+</div>
+{% endfor %}  </article>
 </div>

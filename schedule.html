@@ -4,23 +4,6 @@ title: Schedule
 permalink: /schedule/
 ---
 
-<div class="home">
-    <ul class="responsive-table" style="margin-left: 0;">
-        <li class="table-header">
-            <div class="col col-1">Event</div>
-            <div class="col col-1-2">Date</div>
-            <div class="col col-2">Description</div>
-            <div class="col col-4">Course Material</div>
-        </li>
-        {% assign all_events = site.events | concat: site.lectures %}
-        {% assign all_events = all_events | concat: site.assignments %}
-        {% assign all_events_sorted = all_events | sort: 'date' %}
-
-        {% for event in all_events_sorted reversed %}
-        <li class="table-row table-row-{{ event.type}}">
-            {% include schedule_row_{{ event.type }}.html event=event %}
-        </li>
-        {% endfor %}
-
-    </ul>
-</div>
+<iframe  width="100%" height="640px"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSE4WvCsqz4lzVYPIMxyZkKUmptvxevtJSG-h-17SG8J-WttoqypMtArgCzabD_fhbzLaX9VA6TTVCs/pubhtml?widget=true&amp;headers=false">
+</iframe>
