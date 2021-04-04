@@ -3,26 +3,26 @@ instructor:
   profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
-  - name: Amin Pourdabiri
-    profile_pic: /_images/avatar.png
+  - name: <a href="http://pourdabiri.ir">Amin Pourdabiri</a>
+    profile_pic: /_images/pourdabiri.jpg
 
-  - name: Hadise Mahmoodi
-    profile_pic: /_images/avatar.png
+  - name: <a href="https://www.linkedin.com/in/hadise-mahmoudi-17536115a/">Hadise Mahmoodi</a>
+    profile_pic: /_images/mahmoudi.jpg
 
-  - name: Malihe Hajihosseini
+  - name: <a href="https://www.linkedin.com/in/malihehajihosseini">Malihe Hajihosseini</a>
     profile_pic: /_images/avatar.png
 
   - name: Majid Zarharan
     profile_pic: /_images/avatar.png
 
-  - name: Maryam Sadat Hashemi
-    profile_pic: /_images/avatar.png
+  - name: <a href="https://maryamhashemi.github.io/">Maryam Sadat Hashemi</a>
+    profile_pic: /_images/hashemi.jpg
 
   - name: Mahdi Lotfi
     profile_pic: /_images/avatar.png
 
   - name: Samin Fatehi
-    profile_pic: /_images/avatar.png
+    profile_pic: /_images/fatehi.jpg
 
   - name: Zahra Sayedi
     profile_pic: /_images/avatar.png
