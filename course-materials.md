@@ -44,6 +44,8 @@ Prof. Dan Jurafsky is a leading reasearcher and teacher in Natural Language Proc
 * Bird, Steven, Ewan Klein, and Edward Loper. Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.", 2009.([link](https://www.nltk.org/book/))
 * [The foundation of data science](http://data8.org/).
 
+## Resources
+* [NLP for Hackers](https://nlpforhackers.io/)
 
 ## NLP Labs
 
