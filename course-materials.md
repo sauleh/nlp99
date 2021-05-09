@@ -46,10 +46,19 @@ Prof. Dan Jurafsky is a leading reasearcher and teacher in Natural Language Proc
 
 ## Resources
 * [NLP for Hackers](https://nlpforhackers.io/)
-
-## NLP Labs
-
-
+* [Using Google-Colab like a PRO](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
+* [Colab setup for Conda, SSH and GitHub](https://colab.research.google.com/drive/1fxqM06gZ9Mt3wucIN9M1svLHokZusmVC)
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/#article-input)
+* [BiDAF Notebook](https://colab.research.google.com/github/kushalj001/pytorch-question-answering/blob/master/2.%20BiDAF.ipynb#scrollTo=HM_ygDbWSDXV)
+* [Seq-Seq NMT Visualization](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* [Transformer Illustrated](http://jalammar.github.io/illustrated-transformer/)
+* [BERT Illustrated](http://jalammar.github.io/illustrated-bert/)
+* [GPT-2 Illustrated](http://jalammar.github.io/illustrated-gpt2/)
+* [Neural Attention Visualization](https://distill.pub/2016/augmented-rnns/)
+* [FAST-AI Book and Course](https://docs.fast.ai/)
 ## NLP Projects
 * QANTA.org
 
+## Answers
+* What is a 1 by 1 convolution for? [link](https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/)
+* 
