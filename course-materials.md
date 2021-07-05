@@ -55,7 +55,8 @@ Prof. Dan Jurafsky is a leading reasearcher and teacher in Natural Language Proc
 * [BERT Illustrated](http://jalammar.github.io/illustrated-bert/)
 * [GPT-2 Illustrated](http://jalammar.github.io/illustrated-gpt2/)
 * [Neural Attention Visualization](https://distill.pub/2016/augmented-rnns/)
-* [FAST-AI Book and Course](https://docs.fast.ai/)
+* [FAST-AI Book and Course](https://docs.fast.ai/), [github link](https://github.com/fastai/fastbook), [course link](https://course.fast.ai/)
+* [Interactive Deeplearning Book](https://d2l.ai/)
 ## NLP Projects
 * QANTA.org
 
